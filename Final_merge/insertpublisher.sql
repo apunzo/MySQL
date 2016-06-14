@@ -1,0 +1,16 @@
+INSERT INTO publisher (p_name, founded) values ("Electronic Arts", "1982");
+INSERT INTO publisher (p_name, founded) values ("Sega", "1940");
+INSERT INTO publisher (p_name, founded) values ("Atari", "1972");
+INSERT INTO publisher (p_name, founded) values ("Rovio Entertainment", "2003");
+INSERT INTO publisher (p_name, founded) values ("Activision", "1979");
+INSERT INTO publisher (p_name, founded) values ("Ubisoft", "1986");
+INSERT INTO publisher (p_name, founded) values ("Capcom", "1979");
+INSERT INTO publisher (p_name, founded) values ("Warner Bros. Interactive Entertainment", "1993");
+INSERT INTO publisher (p_name, founded) values ("Blizzard Entertainment", "1991");
+INSERT INTO publisher (p_name, founded) values ("Mojang", "2009");
+INSERT INTO publisher (p_name, founded) values ("THQ", "1989");
+INSERT INTO publisher (p_name, founded) values ("Rockstar Games", "1998");
+INSERT INTO publisher (p_name, founded) values ("Bandai Namco Games", "1955");
+INSERT INTO publisher (p_name, founded) values ("Microsoft Game Studios", "2002");
+INSERT INTO publisher (p_name, founded) values ("Deep Silver", "2002");
+INSERT INTO publisher (p_name, founded) values ("LucasArts", "1982");
